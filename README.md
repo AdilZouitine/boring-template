@@ -21,3 +21,21 @@ make run-test
 ```bash
 make format-all
 ```
+
+## Architecture
+
+```
+├── CONTRIBUTING.md <- Coding rules for devs
+├── data <- Data folder
+├── doc <- Documentation
+├── Dockerfile
+├── Makefile <- Usefull command
+├── README.md
+├── requirements-dev.txt <- Linting etc ...
+├── requirements.txt <- Package dependencies
+├── result
+├── setup.cfg <- Linting rules etc ...
+├── src
+│   └── sandbox <- Prototyping folder
+└── test
+```
