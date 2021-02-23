@@ -1,0 +1,9 @@
+black
+flake8
+flake8-annotations
+lake8-eradicate
+flake8-docstrings
+flake8-isort
+isort
+mypy
+pytest
