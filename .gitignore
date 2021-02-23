@@ -126,3 +126,7 @@ dmypy.json
 #Sandbox ignore
 src/sandbox/*.py
 src/sandbox/*.ipynb
+
+# boring IDE
+.vscode/
+
