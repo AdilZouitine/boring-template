@@ -3,6 +3,7 @@ PROJECT_NAME = project
 
 setup-env:
 	conda create -n ${PROJECT_NAME} python=3.8 -y
+	pre-commit install
 
 install-all:
 	pip install -r requirements-dev.txt -r requirements.txt

@@ -2,6 +2,8 @@ boring-template
 
 ## Install
 
+You need to install `pre-commit` [here](https://pre-commit.com/#install)
+
 ```bash
 # Change in Makefile the project name
 make setup-env
