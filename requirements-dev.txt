@@ -1,10 +1,5 @@
 black
-flake8
-flake8-annotations
-flake8-eradicate
-flake8-docstrings
-flake8-isort
-isort
+ruff
 mkdocs
 mypy
 pytest
